@@ -100,11 +100,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CSDN",
+        href: "https://blog.csdn.net/u010105670"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·change",
+        href: "www.jianshu.com/u/4c97856273a3"
     },{
         title: "Apple",
         href: "https://apple.com"
