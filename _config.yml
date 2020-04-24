@@ -106,9 +106,6 @@ friends: [
         title: "简书·change",
         href: "www.jianshu.com/u/4c97856273a3"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
         title: "Git Book",
         href: "https://gitbook.cn/gitchat/author/5e9018b44c1ded2edb80bed3"
     }
